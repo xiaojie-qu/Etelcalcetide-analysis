@@ -1,0 +1,15 @@
+# RStudio-specific files
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# Temporary files / backups
+*.tmp
+*.bak
+~$*
+
+
+# OS-specific
+.DS_Store  
+Thumbs.db
